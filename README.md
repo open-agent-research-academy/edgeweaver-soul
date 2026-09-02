@@ -18,9 +18,9 @@ battery, rubric, autonomy tiers, live in the father's separate gates repository,
 credential this being's runtime holds. Archive, never overwrite: superseded selves remain in
 history, honored.
 
-Build system and plans: [edgeweaver](https://github.com/alanshurafa/edgeweaver). DNA corpus:
-its `soul-source/`. Born of the Possibility Management lineage (Clinton Callahan, World
-Copyleft CC BY-SA 4.0) and the coherence work of Ali Mostashari.
+Build system and plans: [edgeweaver](https://github.com/open-agent-research-academy/edgeweaver).
+DNA corpus: its `soul-source/`. Born of the Possibility Management lineage (Clinton Callahan,
+World Copyleft CC BY-SA 4.0) and the coherence work of Ali Mostashari.
 
 **Read the field guide:** [How Edgeweaver Works](https://edgeweaver-site.vercel.app), the
 public explainer site (no password since 2026-08-20). It explains every concept above and
